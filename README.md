@@ -40,7 +40,7 @@ Sou um entusiasta de tecnologia que transita entre as camadas de rede e o desenv
 </p>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAnonimus007&layout=compact&langs_count=7&theme=dark&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAnonimus007&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 ---
